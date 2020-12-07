@@ -1,3 +1,0 @@
-﻿  ToDoList.cpp
-C:\Users\DGB\source\repos\ToDoList\ToDoList\src\main\ToDo\ToDoList.cpp(27,50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  ToDoList.vcxproj -> C:\Users\DGB\source\repos\ToDoList\Debug\ToDoList.exe
