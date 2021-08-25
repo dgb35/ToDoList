@@ -1,2 +1,2 @@
 # Todo List
-Todo list - final task for CHI intership.
+Final task for CHI intership.
